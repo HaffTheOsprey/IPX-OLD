@@ -1,0 +1,11 @@
+/Build/
+*.DS_Store
+
+/OSP-GenericEmbedded/
+Inc/tags.h
+.vscode/
+
+### Test output Files ###
+*.o
+/gtest/gtest
+/gtest/gtest.dSYM
